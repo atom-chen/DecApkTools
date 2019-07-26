@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.jz5u.com/
+[InternetShortcut]
+URL=http://www.jz5u.com/Soft/softdown.asp?softid=16137
+Modified=00AE1B45810AC80162
+IconFile=http://www.jz5u.com/favicon.ico
+IconIndex=1
+HotKey=0
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
