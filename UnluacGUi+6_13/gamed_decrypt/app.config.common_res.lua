@@ -1,0 +1,53 @@
+local common_res = {}
+common_res.spine = {
+  "Spine/bingying/chubing",
+  "Spine/UI_effect/UI_shengjijiantou_01",
+  "Spine/bingying/baohuzhao",
+  "Spine/UI_effect/EFT_biaoji_01",
+  "Spine/UI_effect/EFT_zhandoumen_01",
+  "Spine/UI_effect/UI_CDwancheng_01",
+  "Spine/bingying/jianzao",
+  "Spine/bingying/suoding",
+  "Spine/bingying/bingyingshengji",
+  "Spine/bingying/jiaozaotexiao",
+  "Spine/mapeffect/EFT_tabaozha_01",
+  "Spine/skill/EFT_xunluofashe_01",
+  "Spine/skill/EFT_xunluobeiji_01",
+  "Spine/skill/EFT_zhujigongji_01",
+  "Spine/skill/EFT_zhujigongji_02",
+  "Spine/skill/EFT_zhujigongji_03",
+  "Spine/mapeffect/EFT_zhujibaozha_01",
+  "Spine/UI_effect/EFT_xuanzhong_01",
+  "Spine/UI_effect/EFT_jiantou_01",
+  "Spine/UI_effect/EFT_ditupao_01",
+  "Spine/UI_effect/UI_jinengCD_01",
+  "Spine/skill/EFT_ditupaofashe_01",
+  "Spine/UI_effect/UI_jinengshifang_01",
+  "Spine/UI_effect/UI_jinengshifang_02",
+  "Spine/UI_effect/UI_jinengshifang_03",
+  "Spine/bingying/EFT_bingyingG_01",
+  "Spine/UI_effect/UI_yingxiongchuxian_02",
+  "Spine/UI_effect/UI_yingxiongxuetiao_01",
+  "Spine/skill/BUFF_zhongdu_01",
+  "Spine/skill/BUFF_meihuo_01",
+  "Spine/skill/BUFF_chaofeng_01",
+  "Spine/skill/BUFF_hujiazengjia_01",
+  "Spine/skill/BUFF_hujiajiangdi_01",
+  "Spine/skill/BUFF_hudun_01",
+  "Spine/skill/BUFF_zhiliao_01",
+  "Spine/skill/BUFF_zhongdu_beiji",
+  "Spine/skill/BUFF_dongjie_root",
+  "Spine/skill/EFT_icesuozu_01",
+  "Spine/skill/BUFF_siwangyinji_01",
+  "Spine/skill/BUFF_xuanyun_01",
+  "Spine/skill/BUFF_zhuoshao_01",
+  "Spine/skill/BUFF_mabi_01",
+  "Spine/skill/BUFF_yingxiangGH_01"
+}
+common_res.sound = {51, 52}
+common_res.frames = {
+  "UI/battle/battle.plist",
+  "Effect/dandao.plist",
+  "Effect/cloud.plist"
+}
+return common_res
